@@ -8,7 +8,7 @@ const initialize = () =>{
             {name: 3, alt: "But what if... I were to purchase fast food and disguise it as my own cooking?"},
             {name: 4, alt: "Ho-Ho-Ho-Ho-Ho. Delightfully devilish Seymour"},
             {name: 5, alt: "Isometric exercise -- care to join me?"},
-            {name: 6, alt: "Uh... oh! That isn't smoke it's steam. Steam from the steamed calms we're having"},
+            {name: 6, alt: "Uh... oh! That isn't smoke it's steam. Steam from the steamed clams we're having"},
             {name: 7, alt: `Oh, no, I said "Steamed Hams" that's what I call hamburgers`},
             {name: 8, alt: `Well I'm from Utica and I've never heard anyone use the phrase "Steamed Hams"`},
             {name: 9, alt: "Oh, not in Utica, no, it's an Albany expression"},
