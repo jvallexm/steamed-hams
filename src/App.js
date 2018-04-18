@@ -115,6 +115,9 @@ class App extends Component{
             </div>
         </main>
         <div className="sticky">
+            {this.state.message !== "Click on an image to earn points, but don't click on any more than once!" ?
+            <img alt = "Result" src={this.state.message==="Correct!"?"/assets/images/ho.jpg":"/assets/images/seymour.jpg"}/>
+            : ""}
             <h4>Points: {this.state.points}</h4>
             <h4>Top Score: {this.state.topScore}</h4>
         </div>
